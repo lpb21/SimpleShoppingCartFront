@@ -1,0 +1,51 @@
+.best-combination {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.best-combination h2 {
+    margin-bottom: 20px;
+}
+
+.best-combination input {
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.best-combination button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.best-combination button:hover {
+    background-color: #0056b3;
+}
+
+.best-combination table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.best-combination table, th, td {
+    border: 1px solid #ccc;
+}
+
+.best-combination th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.best-combination th {
+    background-color: #f2f2f2;
+}
